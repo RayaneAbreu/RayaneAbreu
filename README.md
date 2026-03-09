@@ -17,4 +17,4 @@ Meu foco é garantir a excelência no atendimento e o desenvolvimento técnico d
 
 - [LinkedIn](www.linkedin.com/in/rayane-quinhones-de-abreu-0551861b6)
 
-- [Instagram]()
+- [Instagram](https://www.instagram.com/rayane.abreuu?igsh=dnhmcjdzZDg1Z2Jv&utm_source=qr)
