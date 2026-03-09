@@ -1,6 +1,6 @@
 ## Oi! 
 
-##⭐ Sobre mim
+## ⭐ Sobre mim
 
 Me chamo Rayane Abreu, tenho 23 anos e atualmente atuo na intersecção entre o **suporte técnico com foco no mercado corporativo** e a **gestão de operações**, coordenando uma central de atendimento corporativo (B2B e B2G). 
 
