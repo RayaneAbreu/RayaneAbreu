@@ -1,4 +1,4 @@
-## Oi! 
+# Oi! 
 
 ## ⭐ Sobre mim
 
@@ -12,6 +12,6 @@ Meu foco é garantir a excelência no atendimento e o desenvolvimento técnico d
 
 ---
 
-### 🤝 Vamos nos conectar?
+## 🤝 Vamos nos conectar?
 [LinkedIn](www.linkedin.com/in/rayane-quinhones-de-abreu-0551861b6)
 [Instagram]()
