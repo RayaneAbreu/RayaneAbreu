@@ -1,5 +1,5 @@
 # Oi! 
-Me chamo Rayane Abreu e tenho 23 anos. 
+Me chamo Rayane Abreu, tenho 23 anos e resido em Santa Maria/RS.
 
 ## ⭐ Sobre mim
 
