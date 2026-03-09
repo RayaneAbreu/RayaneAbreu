@@ -15,6 +15,6 @@ Meu foco é garantir a excelência no atendimento e o desenvolvimento técnico d
 
 ## 🤝 Vamos nos conectar?
 
-[LinkedIn](www.linkedin.com/in/rayane-quinhones-de-abreu-0551861b6)
+![logo](<img width="740" height="740" alt="image" src="https://github.com/user-attachments/assets/29aa3126-7373-4fa9-8fa5-39555cf47f22") [LinkedIn](www.linkedin.com/in/rayane-quinhones-de-abreu-0551861b6)
 
 [Instagram]()
