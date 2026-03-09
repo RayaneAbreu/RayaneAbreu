@@ -9,7 +9,7 @@ Meu foco é garantir a excelência no atendimento e o desenvolvimento técnico d
 
 - 🎓 **Educação:** Cursando Técnico em Informática para Internet - UFSM
 - 💼 **Experiência:** Suporte Técnico N1 (B2B/B2G) e Coordenação de Suporte Corporativo.
-- 🌱 **No momento:** Aprimorando conhecimentos em desenvolvimento web e metodologias ágeis.
+- 🌱 **No momento:** Aprimorando conhecimentos em desenvolvimento web.
 
 ---
 
